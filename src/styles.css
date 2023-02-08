@@ -1,0 +1,20 @@
+body {
+	font-family: 'Roboto', sans-serif;
+	background: #121214;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	color: white;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	min-height: 100vh;
+}
+
+:root {
+	--primary: #6c38cc;
+	--anti-accent: #7c7c8a;
+}
+
+* {
+	box-sizing: border-box;
+}
